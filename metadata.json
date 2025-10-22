@@ -1,0 +1,5 @@
+{
+  "name": "YouTube Shorts Blocker",
+  "description": "A productivity-focused Chrome extension that blocks YouTube Shorts, helping you stay focused while studying or working. This package includes the necessary files for the Chrome extension and a simple React-based guide for installation.",
+  "requestFramePermissions": []
+}
